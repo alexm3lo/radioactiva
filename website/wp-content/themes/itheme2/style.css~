@@ -48,7 +48,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 GENERAL STYLING
 *************************************************************************************/
 body {
-	background: black url(images/broken-rock-rebel-static.gif) repeat left top;
+	background: black url(images/kid-rock-smoke-image-31000.gif) repeat left top;
 	font: .81em/150% "Lucida Grande", Arial, "Lucida Sans Unicode", sans-serif;
 	word-wrap: break-word;
 	color: #666;
