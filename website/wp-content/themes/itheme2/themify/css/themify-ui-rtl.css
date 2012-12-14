@@ -1,0 +1,44 @@
+#themify,
+#themify .label,
+.upload-image,
+.colorSelect,
+#themify .biggest-transfer-btn em,
+#themify .biggest-transfer-btn a,
+.themify_field,
+.themify_field_title,
+.themify-tabs-heading li,
+#themify .biggest-transfer-btn .plupload-import {
+	float: right;
+}
+#themify .pushlabel {
+	margin-right: 200px;
+	margin-left: 0;
+}
+object {
+	float: right !important;
+}
+#themify .preset a span{
+	right: -2px;
+	left: auto;
+}
+.colorSelect{
+	margin: 4px 0 0 6px;
+}
+#themify #bottomtab .reset{
+	background-position: left 0;
+}
+#themify .biggest-transfer-btn a{
+	padding: 15px 40px 0 20px;
+}
+.themify-tabs-heading li{
+	margin: 0 0 0 2px;
+}
+#poststuff .inside .themify_write_panel{
+	border-radius: 5px 0 5px 5px;
+	-webkit-border-radius: 5px 0 5px 5px;
+	-moz-border-radius: 5px 0 5px 5px;
+	-o-border-radius: 5px 0 5px 5px;
+}
+#themify .biggest-transfer-btn .plupload-import{
+	padding: 3px 22px 10px 36px;
+}
